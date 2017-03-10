@@ -1,4 +1,4 @@
-# React-Native学习指南
+﻿# React-Native学习指南
 本指南汇集React-Native各类学习资源，给大家提供便利。指南正在不断的更新，大家有好的资源欢迎Pull Requests！
 
 同时还有Awesome React Native系列
@@ -127,6 +127,7 @@ https://github.com/crazycodeboy/RNStudyNotes/tree/master/React%20Native%E4%B9%8B
 
 * Ant Design 的 React 实现----React 组件
 https://ant.design/index-cn
+https://mobile.ant.design/docs/react/introduce
 
 * React-bootstrap ----React 组件
 https://react-bootstrap.github.io/components.html
